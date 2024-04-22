@@ -1,16 +1,6 @@
 # countdown_app
+## 倒计时工具
 
-A new Flutter project.
+![image](https://github.com/282207134/countdown_app/assets/83965106/88635fcf-62cd-4f51-8bed-4af60c0c83fe)
+![image](https://github.com/282207134/countdown_app/assets/83965106/c619c6c4-d90e-4047-9bc3-bb4831dab6b6)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
